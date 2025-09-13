@@ -40,9 +40,3 @@
 
 - **Email**: cuifrost@outlook.com
 - **Bilibili**: [主页](https://space.bilibili.com/407397440?spm_id_from=333.1007.0.0)
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XuefengCui&show_icons=true&theme=radical" />
-</div>
